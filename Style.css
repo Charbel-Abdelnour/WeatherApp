@@ -34,6 +34,7 @@ body{
 }
 .SearchBar{
     margin-left: 8px;
+    color: #333;
     width: 80%;
     height: 30px;
     border: none;
